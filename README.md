@@ -1,5 +1,5 @@
 # User Interface
-<h1 style="align-items :center"> heloo</h1>
+
 ![Screenshot 2022-10-12 at 2 09 27 AM](https://user-images.githubusercontent.com/78723011/195432070-1f361799-6455-4127-b586-938a74b7e53a.png)
 ![Screenshot 2022-10-12 at 2 07 07 AM](https://user-images.githubusercontent.com/78723011/195432169-d577b36c-38e3-445a-9213-d9865b6a11df.png)
 ![Screenshot 2022-10-12 at 2 07 14 AM](https://user-images.githubusercontent.com/78723011/195432206-0b608690-603e-4818-9bed-df288b5b44d7.png)
