@@ -1,4 +1,4 @@
-# outputs
+# User Interface
 
 ![Screenshot 2022-10-12 at 2 09 27 AM](https://user-images.githubusercontent.com/78723011/195432070-1f361799-6455-4127-b586-938a74b7e53a.png)
 ![Screenshot 2022-10-12 at 2 07 07 AM](https://user-images.githubusercontent.com/78723011/195432169-d577b36c-38e3-445a-9213-d9865b6a11df.png)
